@@ -15,13 +15,13 @@ const Home = () => {
     <div className="bg-white overflow-x-hidden">
       <HeroSection />
       <CampaignSection />
-      <WinningSection />
+      {/* <WinningSection /> */}
       <TestimoniSection />
-      <ToolkitSection />
+      {/* <ToolkitSection />
       <ExperienceSection />
       <ServiceSection />
       <PricingSection />
-      <LaunchSection />
+      <LaunchSection /> */}
       <Footer />
     </div>
   );
