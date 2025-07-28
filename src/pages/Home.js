@@ -4,6 +4,7 @@ import CampaignSection from "../components/CampaignSection";
 import WinningSection from "../components/WinningSection";
 import ServiceSection from "../components/ServiceSection";
 import PricingSection from "../components/PricingSection";
+import GHLSection from "../components/GHLSection";
 import Footer from "../components/Footer";
 import TestimoniSection from "../components/TestimoniSection";
 import ToolkitSection from "../components/ToolkitSection";
@@ -22,6 +23,7 @@ const Home = () => {
       <ServiceSection />
       <PricingSection />
       <LaunchSection /> */}
+      <GHLSection />
       <Footer />
     </div>
   );
